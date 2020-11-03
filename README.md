@@ -1,4 +1,4 @@
-# Front-End-Web-UI-Frameworks-and-Tools-Bootstrap-4
+# Front-End Web UI Frameworks and Tools Bootstrap 4
 ## The Hong Kong University of Science and Technology
 
 This course will give you an overview of client-side web UI frameworks, in particular Bootstrap 4. You will learn about grids and responsive design, Bootstrap CSS and JavaScript components. You will learn about CSS preprocessors, Less and Sass. You will also learn the basics of Node.js and NPM and task runners like Grunt and Gulp.
